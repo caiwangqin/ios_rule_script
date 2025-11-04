@@ -5,3 +5,7 @@
 # DOMAIN: 1
 # TOTAL: 1
 DOMAIN,music.youtube.com
+DOMAIN-SUFFIX,music.youtube.com
+DOMAIN-SUFFIX,ytmusic.googleapis.com
+DOMAIN-SUFFIX,ytmusicapi.google.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
