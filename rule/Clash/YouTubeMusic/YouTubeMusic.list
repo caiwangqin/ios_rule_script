@@ -4,9 +4,11 @@
 # UPDATED: 2025-06-06 09:15:10
 # DOMAIN: 1
 # TOTAL: 1
-DOMAIN,music.youtube.com
-DOMAIN,rr2---sn-ipoxu-umbee.googlevideo.com
+# 主站域名
 DOMAIN-SUFFIX,music.youtube.com
+# API 接口
+DOMAIN-SUFFIX,music.youtubei.googleapis.com
+DOMAIN-SUFFIX,ytmusicapi.googleusercontent.com
 DOMAIN-SUFFIX,ytmusic.googleapis.com
 DOMAIN-SUFFIX,ytmusicapi.google.com
-DOMAIN-SUFFIX,youtubei.googleapis.com
+
